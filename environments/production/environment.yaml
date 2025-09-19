@@ -1,6 +1,7 @@
 #
-# Configuration for staging environment
-# adding change  ddd
+# Configuration for production environment
+# Change:
+#
 version: 1.0
 app:
   # build id to deploy. if 'version' is commented out, the application is not deployed
